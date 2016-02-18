@@ -2,6 +2,8 @@
 
 *Currently unavailable, will update with link to Slack app directory sometime in the future.*
 
+![Screenshot](/screenshot1.png?raw=true "Screenshot")
+
 ## Overview
 
 DoorDash-Slack enables [DoorDash](https://www.doordash.com/) customers to invite [Slack](https://slack.com/) team members to join in on group orders and track their progress.
