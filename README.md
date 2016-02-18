@@ -10,9 +10,8 @@ DoorDash-Slack enables [DoorDash](https://www.doordash.com/) customers to invite
 
 ## Usage
 
-1. ```html
-<a href="https://slack.com/oauth/authorize?scope=commands,bot&client_id=3764086579.21683142530"><img alt="Add to Slack" height="40" width="139" src="https://platform.slack-edge.com/img/add_to_slack.png" srcset="https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x"></a>
-```
+1. Click: <a href="https://slack.com/oauth/authorize?scope=commands,bot&client_id=3764086579.21683142530"><img alt="Add to Slack" height="40" width="139" src="https://platform.slack-edge.com/img/add_to_slack.png" srcset="https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x"></a>
+
 
 2. If you'll be using DoorDash-Slack in a private channel, you'll need to invite the `@doordash` user to the channel first: `/invite @doordash`
 
